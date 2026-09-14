@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+    <rect width="640" height="360" fill="#141414" stroke="#222" stroke-width="2"/>
+    <text x="320" y="170" font-family="Arial, sans-serif" font-size="28" fill="#555" text-anchor="middle" dominant-baseline="middle">Imagem do Projeto Landing Pages</text>
+    <text x="320" y="210" font-family="Arial, sans-serif" font-size="16" fill="#444" text-anchor="middle" dominant-baseline="middle">640 x 360</text>
+</svg>
