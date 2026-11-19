@@ -1,29 +1,27 @@
-# 💻 Portfólio Pessoal — João Miguel
-
-**Status:** `🟢 Online` | **Hospedagem:** `Cloudflare Workers` | **Foco:** `Desenvolvimento Web & CyberSecurity`
+#  Portfólio Pessoal — João Miguel Prado Gossani
 
 > Repositório central onde reúno minha trajetória acadêmica, experiências e principais projetos de **Layouts**, **Front-end** e **Full-Stack**.
 
-🌐 **Acesse o portfólio online:** [https://workers.dev](https://workers.dev)
+🌐 **Acesse o portfólio online:** https://portfolio-jm.migueljm76.workers.dev
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou desenvolvedor Full-Stack e estudante de Desenvolvimento de Sistemas na **ETEC de São José dos Campos**, atuando também com segurança da informação como bolsista na **Acadi TI**.
 
 ---
 
-## 🚀 Projetos Principais
+##  Projetos Principais
 
-- 🎯 **Trivio:** Plataforma para processos seletivos focados em triagem técnica.
-- 📱 **Gerador de QR Code:** Ferramenta web para criação de QR Codes personalizados.
-- 🎓 **BD-scholar:** Sistema e modelagem de banco de dados escolar.
-- 🎨 **Landing Pages:** Páginas voltadas à conversão e testes de interface.
+-  **Trivio:** Plataforma para processos seletivos focados em triagem técnica.
+-  **Gerador de QR Code:** Ferramenta web para criação de QR Codes personalizados.
+-  **BD-scholar:** Sistema e modelagem de banco de dados escolar.
+-  **Landing Pages:** Páginas voltadas à conversão e testes de interface.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Front-end:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS
 - **Back-end & Banco de Dados:** Node.js, PHP, MySQL, SQLite
@@ -42,4 +40,4 @@ Sou desenvolvedor Full-Stack e estudante de Desenvolvimento de Sistemas na **ETE
 ## 📬 Contato
 
 - 📧 **E-mail:** [pradojoaomiguel061@gmail.com](mailto:pradojoaomiguel061@gmail.com)
-- 🌐 **Portfólio:** [https://workers.dev](https://workers.dev)
+- ** Número:** (12) 98276-3114
