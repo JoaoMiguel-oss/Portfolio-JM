@@ -32,7 +32,7 @@ Sou desenvolvedor Full-Stack e estudante de Desenvolvimento de Sistemas na **ETE
 ## 🎓 Formação & Experiência
 
 - **Bolsista de CyberSecurity** — *Acadi TI* (2025 — Atualmente)
-- **Monitor Acadêmico em Programação e Web** — *SENAC* (2023 — 2026)
+- **Análise de Dados e Power BI** — *Bradesco* (2026 — 2026)
 - **Técnico em Desenvolvimento de Sistemas** — *ETEC São José dos Campos* (2024 — 2026)
 
 ---
@@ -40,4 +40,3 @@ Sou desenvolvedor Full-Stack e estudante de Desenvolvimento de Sistemas na **ETE
 ## 📬 Contato
 
 - 📧 **E-mail:** [pradojoaomiguel061@gmail.com](mailto:pradojoaomiguel061@gmail.com)
-- ** Número:** (12) 98276-3114
